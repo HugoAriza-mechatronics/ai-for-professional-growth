@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hugoariza-mechatronics.github.io/ai-for-professional-growth/sitemap.xml
